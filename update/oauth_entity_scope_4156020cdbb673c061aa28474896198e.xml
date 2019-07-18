@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
+    <oauth_entity_scope action="INSERT_OR_UPDATE">
+        <name>scope</name>
+        <oauth_entity display_value="ecobee OAuth Provider">bc41ce80dbb673c061aa284748961978</oauth_entity>
+        <oauth_entity_scope>smartRead</oauth_entity_scope>
+        <sys_class_name>oauth_entity_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-17 17:33:03</sys_created_on>
+        <sys_id>4156020cdbb673c061aa28474896198e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>scope</sys_name>
+        <sys_package display_value="ecobeeNow" source="x_snc_ecobeenow">0997f904db7673c061aa284748961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ecobeeNow">0997f904db7673c061aa284748961967</sys_scope>
+        <sys_update_name>oauth_entity_scope_4156020cdbb673c061aa28474896198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-17 17:52:33</sys_updated_on>
+    </oauth_entity_scope>
+</record_update>

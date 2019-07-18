@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>get_temp</internal_name>
+        <label_cache>[{"name":"{{step[e3c41c47-1795-4b63-889a-76ce4c7fcb61].response_body}}","label":"step➛REST step➛Response Body","type":"step","ref":""},{"name":"{{step[8007f38d-b6f4-4c54-bb5d-3255f7f53dc1].payload}}","label":"step➛Payload Builder step➛Payload","type":"step","ref":""},{"name":"{{step[6404884a-0418-496d-9db6-d8706de090c7].parsed_temperature}}","label":"step➛Script step➛parsed_temperature","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>699a9018dbf2b3c061aa2847489619a0</latest_snapshot>
+        <master_snapshot>f5bdfd4cdb7673c061aa284748961990</master_snapshot>
+        <name>Get ecobee Temp</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-17 16:23:46</sys_created_on>
+        <sys_id>b4e7b544db7673c061aa284748961957</sys_id>
+        <sys_mod_count>192</sys_mod_count>
+        <sys_name>Get ecobee Temp</sys_name>
+        <sys_package display_value="ecobeeNow" source="x_snc_ecobeenow">0997f904db7673c061aa284748961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ecobeeNow">0997f904db7673c061aa284748961967</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_b4e7b544db7673c061aa284748961957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-18 04:14:43</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=b4e7b544db7673c061aa284748961957"/>
+    <sys_variable_value action="delete_multiple" query="document_key=b4e7b544db7673c061aa284748961957"/>
+    <sys_element_mapping action="delete_multiple" query="id=b4e7b544db7673c061aa284748961957"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ecotemperature</field>
+        <id>b4e7b544db7673c061aa284748961957</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-18 04:14:37</sys_created_on>
+        <sys_id>ad9a9018dbf2b3c061aa284748961995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-18 04:14:37</sys_updated_on>
+        <table>var__m_sys_hub_action_output_b4e7b544db7673c061aa284748961957</table>
+        <value>{{step[6404884a-0418-496d-9db6-d8706de090c7].parsed_temperature}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>response</field>
+        <id>b4e7b544db7673c061aa284748961957</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-17 16:34:26</sys_created_on>
+        <sys_id>8d5a7d08db7673c061aa2847489619ab</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-17 17:54:14</sys_updated_on>
+        <table>var__m_sys_hub_action_output_b4e7b544db7673c061aa284748961957</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
