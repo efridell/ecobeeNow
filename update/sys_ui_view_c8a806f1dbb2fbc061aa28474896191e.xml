@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_ecobee_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-23 04:06:16</sys_created_on>
+        <sys_id>c8a806f1dbb2fbc061aa28474896191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ecobee Catalog View</sys_name>
+        <sys_package display_value="ecobeeNow" source="x_snc_ecobeenow">0997f904db7673c061aa284748961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ecobeeNow">0997f904db7673c061aa284748961967</sys_scope>
+        <sys_update_name>sys_ui_view_c8a806f1dbb2fbc061aa28474896191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-23 04:06:16</sys_updated_on>
+        <title>ecobee Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -10,12 +10,12 @@
         <copied_from_name/>
         <description/>
         <internal_name>get_temp</internal_name>
-        <label_cache>[{"name":"ff806bf2-77a7-40bd-ba13-14e9883b3ee0.response","label":"1➛response","type":"string","base_type":"string"},{"name":"4f24d329-3401-4ad8-821e-1a40317617c9.response","label":"1➛response","reference_display":"response","type":"string","base_type":"string"}]</label_cache>
-        <latest_snapshot>20ea3d48db7673c061aa2847489619d2</latest_snapshot>
+        <label_cache>[{"name":"4f24d329-3401-4ad8-821e-1a40317617c9.response","label":"1➛response","reference_display":"response","type":"string","base_type":"string"},{"name":"ff806bf2-77a7-40bd-ba13-14e9883b3ee0.response","label":"1➛response","type":"string","base_type":"string"},{"name":"4f24d329-3401-4ad8-821e-1a40317617c9.ecotemperature","label":"1➛ecoTemperature","type":"string","base_type":"string"},{"name":"33b6f3fd-9404-4cda-9457-e4ad25cc1f3a.record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"33b6f3fd-9404-4cda-9457-e4ad25cc1f3a.table_name","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"Created or Updated_1.current","label":"Trigger➛Temperatures Record","reference":"x_snc_ecobeenow_temperatures","reference_display":"Temperatures","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot>b5b499f8dbb6f38040f0892a48961942</latest_snapshot>
         <master_snapshot>20ea3d48db7673c061aa2847489619d2</master_snapshot>
         <name>Get ecobee Current Temp</name>
         <outputs/>
-        <remote_trigger_id>e4ea7d48db7673c061aa284748961903</remote_trigger_id>
+        <remote_trigger_id>2573d138db7677c061aa2847489619c9</remote_trigger_id>
         <run_as>user</run_as>
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-17 16:35:18</sys_created_on>
         <sys_id>758a7108db7673c061aa28474896194d</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Get ecobee Current Temp</sys_name>
         <sys_package display_value="ecobeeNow" source="x_snc_ecobeenow">0997f904db7673c061aa284748961967</sys_package>
         <sys_policy/>
         <sys_scope display_value="ecobeeNow">0997f904db7673c061aa284748961967</sys_scope>
         <sys_update_name>sys_hub_flow_758a7108db7673c061aa28474896194d</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-17 17:38:20</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-19 21:45:34</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=758a7108db7673c061aa28474896194d"/>

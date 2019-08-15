@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>erik's_user_flow</internal_name>
+        <label_cache>null</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Erik's User Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-19 21:21:51</sys_created_on>
+        <sys_id>ba4fc130db7677c061aa2847489619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Erik's User Flow</sys_name>
+        <sys_package display_value="ecobeeNow" source="x_snc_ecobeenow">0997f904db7673c061aa284748961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ecobeeNow">0997f904db7673c061aa284748961967</sys_scope>
+        <sys_update_name>sys_hub_flow_ba4fc130db7677c061aa2847489619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-19 21:21:51</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=ba4fc130db7677c061aa2847489619b8"/>
+    <sys_variable_value action="delete_multiple" query="document_key=ba4fc130db7677c061aa2847489619b8"/>
+</record_update>

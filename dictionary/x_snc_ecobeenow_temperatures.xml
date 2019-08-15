@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Temperatures" max_length="40" name="x_snc_ecobeenow_temperatures" type="collection">
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Temp" max_length="20" name="temp" type="decimal"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+    </element>
+</database>
